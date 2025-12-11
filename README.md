@@ -211,6 +211,9 @@ ELSE
         → Continue Monitoring
         
 ## 👤 Author
-**peetha jaya durga prasad**  
+**Peetha Jaya Durga Prasad**  
+** Purushotham Panda**
+**Tangudu Santosh**
+**Yandamuri Rajesh**
 Smart Helmet IoT Project
 
